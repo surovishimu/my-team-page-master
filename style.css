@@ -36,9 +36,11 @@
 #inner-text2 {
     margin-top: 100px;
 }
+
 #inner-text5 {
     margin-top: 100px;
 }
+
 .inner-div {
     display: flex;
     column-gap: 1px;
@@ -62,7 +64,12 @@
     }
 
     .title {
-        margin-right: 50px;
+        width: 300px;
+        margin-left: 100px;
+    }
+
+    .about {
+        margin-left: 100px;
     }
 
     .container-2 {
@@ -77,17 +84,20 @@
         width: 150px;
     }
 
-    #inner-div2{
-       padding-top:120px ;
+    #inner-div2 {
+        padding-top: 120px;
     }
-    #inner-div4{
-        padding-top:120px ;
-     }
-     #photo-5 {
+
+    #inner-div4 {
+        padding-top: 120px;
+    }
+
+    #photo-5 {
         margin-top: 0px;
     }
+
     #inner-text5 {
         margin-top: 0px;
     }
-   
+
 }
